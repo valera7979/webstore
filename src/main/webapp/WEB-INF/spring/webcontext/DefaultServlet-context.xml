@@ -10,6 +10,7 @@
 
     <mvc:annotation-driven />
     <context:component-scan base-package="ua.webstore" />
+    <mvc:annotation-driven enable-matrix-variables="true"/>
 
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix" value="/WEB-INF/jsp/" />
