@@ -10,14 +10,6 @@ charset=ISO-8859-1">
     <title>Products</title>
 </head>
 <body>
-<section>
-    <div class="jumbotron">
-        <div class="container">
-            <h1>Customers</h1>
-            <p>All customers of our store</p>
-        </div>
-    </div>
-</section>
 
 <section class="container">
     <div class="row">

@@ -12,14 +12,7 @@
     <title>Products</title>
 </head>
 <body>
-<section>
-    <div class="jumbotron">
-        <div class="container">
-            <h1>Products</h1>
-            <p>Add products</p>
-        </div>
-    </div>
-</section>
+
 <section class="container">
 
     <div class="col-sm-6">

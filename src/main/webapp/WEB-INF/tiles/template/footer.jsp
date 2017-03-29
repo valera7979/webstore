@@ -1,0 +1,1 @@
+<p>&copy; Webstore 2017</p>
